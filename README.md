@@ -1,2 +1,2 @@
 # Prework-Study-Guide
-A study guide for the UCLA Extension Prework course
+A study guide for the UCLA Extension Coding Boot Camo
