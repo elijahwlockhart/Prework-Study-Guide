@@ -24,6 +24,11 @@ img {
     margin-right: auto;
 }
 
+ol {
+    padding-left: 40px;
+    font-size: 20px;
+}
+
 ul {
     padding-left: 40px;
     font-size: 20px;
