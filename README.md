@@ -17,7 +17,7 @@ Not because it was homework, but because I am interested in learning about codin
 No problem is solved but it gives me a little insight before I start the main course, bootcamp.
 
 - What did you learn? 
-The mindaset of a coder is extremely important. Thankfully, I am a very logical thinker, not like a computer but I am able to think in a conventional way that a web developer would. Still working on it of course!
+The mindset of a coder is extremely important. Thankfully, I am a very logical thinker, not like a computer but I am able to think in a conventional way that a web developer would. Still working on it of course!
 
 ## Installation
 
